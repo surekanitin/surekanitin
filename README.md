@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surekanitin
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python,mysql
-- 💞️ I’m looking to collaborate on data analytic basic projects
+- 👀 I’m interested in data analytics and software development
+- 🌱 I’m currently learning python,mysql and machine learning
+- 💞️ I’m looking to collaborate on data analytics basic projects
 - 📫 How to reach me ...
 
 <!---
